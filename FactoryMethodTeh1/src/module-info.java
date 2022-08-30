@@ -1,0 +1,2 @@
+module FactoryMethodTeh1 {
+}
