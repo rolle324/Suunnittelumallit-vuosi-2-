@@ -16,4 +16,8 @@ public class ClockTimer {
 		return 0;
 		
 	}
+	
+	public int resetMinutes() {
+		return 0;
+	}
 }

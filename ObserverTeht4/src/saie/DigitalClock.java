@@ -24,6 +24,7 @@ public class DigitalClock extends Observable implements Runnable{
             if(minutes == 60) {
             	hours = clocktimer.getMinute(hours);
             	seconds = clocktimer.resetSeconds();
+            	minutes = clocktimer.resetMinutes();
             }
             
             String currentTime = ""+hours+":"+minutes+":"+seconds;
