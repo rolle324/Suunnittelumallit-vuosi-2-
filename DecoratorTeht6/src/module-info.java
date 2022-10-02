@@ -1,0 +1,2 @@
+module DecoratorTeht6 {
+}
