@@ -15,3 +15,4 @@
 -   [Strategy (Teht. 9)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/strategyMethodTeht9)
 - [Chain of responsibility (Teht. 10)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/CORTeht10)
 - [Memento (Teht. 11)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/MementoTeht11)
+- [Proxy (Teht. 12)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/proxyMethodTeht12)
