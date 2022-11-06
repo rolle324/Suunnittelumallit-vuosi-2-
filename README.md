@@ -16,3 +16,4 @@
 - [Chain of responsibility (Teht. 10)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/CORTeht10)
 - [Memento (Teht. 11)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/MementoTeht11)
 - [Proxy (Teht. 12)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/proxyMethodTeht12)
+- [Visitor (Teht. 13)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/teht13Visitor)
