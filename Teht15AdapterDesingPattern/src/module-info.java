@@ -1,0 +1,2 @@
+module Teht15AdapterDesingPattern {
+}
