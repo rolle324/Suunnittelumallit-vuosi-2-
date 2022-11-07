@@ -17,3 +17,5 @@
 - [Memento (Teht. 11)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/MementoTeht11)
 - [Proxy (Teht. 12)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/proxyMethodTeht12)
 - [Visitor (Teht. 13)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/teht13Visitor)
+- [Builder (Teht. 14)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht14Builder)
+- [Adapter (Teht. 15)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht15AdapterDesingPattern)
