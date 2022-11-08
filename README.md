@@ -19,3 +19,5 @@
 - [Visitor (Teht. 13)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/teht13Visitor)
 - [Builder (Teht. 14)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht14Builder)
 - [Adapter (Teht. 15)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht15AdapterDesingPattern)
+- [Bridge (Teht. 16)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht16BridgePDF)
+
