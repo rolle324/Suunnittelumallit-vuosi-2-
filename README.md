@@ -21,3 +21,6 @@
 - [Adapter (Teht. 15)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht15AdapterDesingPattern)
 - [Bridge (Teht. 16)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht16BridgePDF)
 
+- [Flyweight (Teht. 17)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/FlyweightTeht17)
+
+
