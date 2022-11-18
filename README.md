@@ -22,5 +22,7 @@
 - [Bridge (Teht. 16)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht16BridgePDF)
 
 - [Flyweight (Teht. 17)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/FlyweightTeht17)
+- [Protype (Teht. 18)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/PrototypePatternTeht18)
+
 
 
