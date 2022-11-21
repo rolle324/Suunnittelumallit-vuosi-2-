@@ -23,6 +23,5 @@
 
 - [Flyweight (Teht. 17)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/FlyweightTeht17)
 - [Prototype (Teht. 18)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/PrototypePatternTeht18)
-
-
-
+- [Mediator (Teht. 19)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht19Mediator)
+- [Iterator testaukset (Teht. 20)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/IteratorTestingTeht20)
