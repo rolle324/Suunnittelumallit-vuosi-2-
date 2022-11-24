@@ -1,0 +1,2 @@
+module CommandTeht22 {
+}
