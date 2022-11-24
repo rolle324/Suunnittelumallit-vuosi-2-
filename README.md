@@ -26,3 +26,5 @@
 - [Mediator (Teht. 19)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/Teht19Mediator)
 - [Iterator testaukset (Teht. 20)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/IteratorTestingTeht20)
 - [Facade (Teht. 21)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/FacadeTeht21)
+- [Command (Teht. 22)](https://github.com/rolle324/SuunnittelumallitTehtavat/tree/master/CommandTeht22)
+
